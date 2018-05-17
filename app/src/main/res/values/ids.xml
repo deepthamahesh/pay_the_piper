@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="RelativeLayout1" type="id">0</item>
+    <item name="ConstraintLayout1" type="id" />
+    <item name="backg" type="id" />
+</resources>
